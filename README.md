@@ -10,9 +10,9 @@ Udacity's course _Writing READMEs_ explains the importance of documenting your w
 ## Sample READMEs
 
 * [Udacity Feedback Chrome Extension](https://github.com/udacity/frontend-grading-engine) - A front-end grading engine built by Cameron Pittman, a content developer at Udacity. The documentation is thorough and complete, so anybody can use it!
-* [factory_bot](https://github.com/thoughtbot/factory_bot) - An open source project maintained by thoughtbot. Great example of simple instructions to get you set up, which then links to external documentation.
-* [can.viewify](https://github.com/zkat/can.viewify) - Awesome example of someone documenting her personal projects concisely.
-* [create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This README for Udacity's Git and Github course.
+* [factory_bot](https://github.com/thoughtbot/factory_bot) - An open source project maintained by thoughtbot. A great example of simple instructions to get you set up, which then links to external documentation.
+* [can.viewify](https://github.com/zkat/can.viewify) - An awesome example of someone documenting her personal projects concisely.
+* [create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This README is for Udacity's Git and Github course.
 
 ## How to Contribute
 
